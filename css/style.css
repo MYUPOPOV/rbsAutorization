@@ -43,7 +43,7 @@
       padding: 0;
   }
 
-.autorization-form {
+.main-menu-form {
     height: 500px;
     display: flex;
     flex-direction: column;
@@ -52,15 +52,15 @@
     text-align: center;
 }
 
-.autorization-form input {
+.main-menu-form input {
     margin-top: 10px;
 }
-.autorization-form span {
+.main-menu-form span {
     margin-top: 10px;
     margin-left: 3px;
 }
 
-.autorization-form div {
+.main-menu-form div {
     display: flex;
     flex-direction: row;
     justify-content: center;
